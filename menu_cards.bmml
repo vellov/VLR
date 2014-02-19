@@ -1,0 +1,64 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1024" measuredH="768" mockupW="1024" mockupH="768">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Wee%0Ahttp%3A//www.wee.ee/ee</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TabBar" x="125" y="323" w="814" h="414" measuredW="164" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>Images%2C%20%7Bcolor%3A6E6E6E%7DText%7Bcolor%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::FieldSet" x="125" y="204" w="814" h="110" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Search%20filters</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Icon" x="125" y="106" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Label" x="181" y="120" w="-1" h="-1" measuredW="25" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>wee</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::SearchBox" x="740" y="167" w="199" h="-1" measuredW="120" measuredH="25" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>search</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="__group__" x="166" y="374" w="746" h="342" measuredW="746" measuredH="342" zOrder="6" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="105" h="154" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="44"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="121" y="0" w="105" h="154" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="44"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="242" y="0" w="105" h="154" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="44"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="361" y="0" w="105" h="154" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="44"/>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="482" y="0" w="105" h="154" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="44"/>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="603" y="0" w="105" h="154" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="44"/>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="730" y="0" w="-1" h="342" measuredW="16" measuredH="100" zOrder="6" locked="false" isInGroup="44"/>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="188" w="105" h="154" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="44"/>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Canvas" x="121" y="188" w="105" h="154" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="44"/>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Canvas" x="242" y="188" w="105" h="154" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="44"/>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Canvas" x="361" y="188" w="105" h="154" measuredW="100" measuredH="70" zOrder="10" locked="false" isInGroup="44"/>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Canvas" x="482" y="188" w="105" h="154" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="44"/>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::Canvas" x="603" y="188" w="105" h="154" measuredW="100" measuredH="70" zOrder="12" locked="false" isInGroup="44"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::ButtonBar" x="125" y="166" w="-1" h="-1" measuredW="121" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cards%2C%20Decks</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Label" x="901" y="84" w="-1" h="-1" measuredW="108" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Username%20%7C%20logout</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Menu" x="125" y="184" w="-1" h="-1" measuredW="150" measuredH="115" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>2</selectedIndex>
+        <text>Hero%0AHero%20Power%0Ax%20Minion%0ASpell%0AWeapon</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

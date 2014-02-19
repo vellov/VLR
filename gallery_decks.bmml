@@ -1,0 +1,78 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1024" measuredH="768" mockupW="1024" mockupH="768">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Wee%0Ahttp%3A//www.wee.ee/ee</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::FieldSet" x="125" y="204" w="814" h="110" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Filters</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Icon" x="125" y="106" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Label" x="181" y="120" w="-1" h="-1" measuredW="25" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>wee</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::SearchBox" x="740" y="167" w="199" h="-1" measuredW="120" measuredH="25" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>search</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::ButtonBar" x="125" y="166" w="-1" h="-1" measuredW="121" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <text>Cards%2C%20Decks</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Label" x="881" y="85" w="-1" h="-1" measuredW="108" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Username%20%7C%20logout</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="1008" y="70" w="-1" h="674" measuredW="16" measuredH="100" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::ComboBox" x="246" y="247" w="107" h="-1" measuredW="34" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::Label" x="133" y="249" w="-1" h="-1" measuredW="37" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Class%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::SearchBox" x="133" y="219" w="220" h="-1" measuredW="120" measuredH="25" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>search</text>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::TextInput" x="246" y="276" w="43" h="-1" measuredW="79" measuredH="26" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::TextInput" x="310" y="276" w="43" h="-1" measuredW="79" measuredH="26" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::Label" x="133" y="279" w="-1" h="-1" measuredW="42" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Rating%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Label" x="295" y="279" w="-1" h="-1" measuredW="10" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>-</text>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Canvas" x="125" y="328" w="814" h="415" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::DataGrid" x="147" y="351" w="777" h="391" measuredW="262" measuredH="117" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Name%2C%20Class%2C%20Rating%20%5E%0AHogger%20FTW%5Cr%20%7Bsize%3A11%7DHogger%7Bsize%7D%2C%20Warlock%2C%20666%0AHulk%20SMASH%21%21%21%5Cr%20%7Bsize%3A11%7DDrBanner%7Bsize%7D%2C%20Warrior%2C%2013%0AI%20like%20men%20now%5Cr%20%7Bsize%3A11%7DSuperNintendoChalmers%7Bsize%7D%2C%20Ralph%2C%20-4%0A%7B40L%2C%2010C%2C%2010C%7D</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

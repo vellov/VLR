@@ -1,0 +1,47 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1024" measuredH="768" mockupW="1024" mockupH="768">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Wee%0Ahttp%3A//www.wee.ee/ee</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TabBar" x="125" y="323" w="814" h="420" measuredW="164" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <text>%7Bcolor%3A6E6E6E%7DImages%7Bcolor%7D%2C%20Text</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::FieldSet" x="125" y="204" w="814" h="110" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Search%20filters</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Icon" x="125" y="106" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Label" x="181" y="120" w="-1" h="-1" measuredW="25" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>wee</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::SearchBox" x="740" y="167" w="199" h="-1" measuredW="120" measuredH="25" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>search</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::ButtonBar" x="125" y="166" w="-1" h="-1" measuredW="121" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cards%2C%20Decks</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Label" x="890" y="84" w="-1" h="-1" measuredW="108" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Username%20%7C%20logout</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="1006" y="72" w="-1" h="670" measuredW="16" measuredH="100" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::DataGrid" x="147" y="374" w="770" h="368" measuredW="611" measuredH="147" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Name%20%5E%2C%20Mana%2C%20Attack%2C%20Health%2C%20Class%2C%20Race%2C%20Type%0A%7Bcolor%3A%23FFA200%7DHogger%7Bcolor%7D%5Cr%7Bsize%3A11%7DAt%20the%20end%20of%20your%20turn%5C%2C%20summon%20a%202/2%20Gnoll%20with%20Taunt.%7Bsize%7D%2C%206%2C%206%2C%206%2C%20%2C%20%2C%20Minion%0AJaina%20Proudmoore%2C%20%2C%20%2C%2030%2C%20Mage%2C%20%2C%20Hero%0AHulk%20Smash%5Cr%7Bsize%3A11%7DHero%20Power%20Destroy%20ALL%20minions%20and%20discard%20your%20hand.%7Bsize%7D%2C%202%2C%20%2C%20%2C%20Hulk%2C%20%2C%20Hero%20Power%0ALorem%20Ipsum%5Cr%7Bsize%3A11%7DDraw%2030%20cards.%7Bsize%7D%2C%200%2C%20%2C%20%2C%20Priest%2C%20%2C%20Spell%0A%7B40L%2C%2010C%2C%2010C%2C%2010C%2C%2010C%2C%2010C%2C%2010C%7D</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
