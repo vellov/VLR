@@ -32,8 +32,8 @@
     <control controlID="70" controlTypeID="com.balsamiq.mockups::Canvas" x="125" y="224" w="814" h="513" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
     <control controlID="71" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="125" y="200" w="-1" h="-1" measuredW="155" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <hrefs>menu_cards%26bm%3Bmenu_cards.bmml%26bm%3Bmenu_cards.bmml%26bm%3Bmenu_cards.bmml%2C%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22125%2C205.5%2C165%2C218.5%22%20href%3D%22menu_cards.bmml%22%20alt%3D%22menu_cards%22%20id%3D%2271%22/%3E</map>
+        <hrefs>menu_cards%26bm%3Bmenu_cards.bmml%26bm%3Bmenu_cards.bmml%26bm%3Bmenu_cards.bmml%2CMinions%26bm%3BMinions.bmml%26bm%3BMinions.bmml%26bm%3BMinions.bmml%2CTODO_card%26bm%3BTODO_card.bmml%26bm%3BTODO_card.bmml%26bm%3BTODO_card.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22125%2C205.5%2C165%2C218.5%22%20href%3D%22menu_cards.bmml%22%20alt%3D%22menu_cards%22%20id%3D%2271%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22177%2C205.5%2C225%2C218.5%22%20href%3D%22Minions.bmml%22%20alt%3D%22Minions%22%20id%3D%2271%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22237%2C205.5%2C284%2C218.5%22%20href%3D%22TODO_card.bmml%22%20alt%3D%22TODO_card%22%20id%3D%2271%22/%3E</map>
         <text>Cards%2C%20Minions%2C%20Hogger</text>
       </controlProperties>
     </control>
@@ -44,7 +44,9 @@
     </control>
     <control controlID="111" controlTypeID="com.balsamiq.mockups::Image" x="344" y="268" w="148" h="232" measuredW="77" measuredH="79" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
-        <text/>
+        <borderStyle>none</borderStyle>
+        <rotation>180</rotation>
+        <text>it%27s%20golden</text>
       </controlProperties>
     </control>
     <control controlID="112" controlTypeID="com.balsamiq.mockups::List" x="701" y="268" w="187" h="232" measuredW="100" measuredH="195" zOrder="10" locked="false" isInGroup="-1">
@@ -52,11 +54,36 @@
         <text>Hogger%0AMana%3A%206%0AAttack%3A%204%0AHealth%3A%204%0AType%3A%20Minion%20%28Elite%29%0ASet%3A%20Expert%0AQuality%3A%20Legendary%0ACrafted%20%281600/3200%29%0ADisenchantable%20%28400/1600%29</text>
       </controlProperties>
     </control>
-    <control controlID="113" controlTypeID="com.balsamiq.mockups::TextArea" x="163" y="534" w="738" h="203" measuredW="200" measuredH="140" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="113" controlTypeID="com.balsamiq.mockups::TextArea" x="163" y="569" w="738" h="168" measuredW="200" measuredH="140" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Block%20of%20comments%3F</text>
+        <text/>
       </controlProperties>
     </control>
     <control controlID="114" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="876" y="545" w="-1" h="185" measuredW="16" measuredH="100" zOrder="12" locked="false" isInGroup="-1"/>
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::Label" x="280" y="605" w="554" h="-1" measuredW="203" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>This%20card%20rules%2C%20I%27ve%20never%20won%20tho.</text>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::IconLabel" x="173" y="584" w="-1" h="-1" measuredW="90" measuredH="63" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Crazy%20Grandpa</text>
+      </controlProperties>
+    </control>
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::IconLabel" x="246" y="647" w="-1" h="-1" measuredW="91" measuredH="63" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Angry%20grandma</text>
+      </controlProperties>
+    </control>
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::Label" x="337" y="668" w="554" h="-1" measuredW="185" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Stop%20it%2C%20you%20are%20missing%20BINGO</text>
+      </controlProperties>
+    </control>
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::TextArea" x="166" y="530" w="243" h="31" measuredW="200" measuredH="140" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>This%20card%20is%20used%20in%2032%25%20of%20all%20decks</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
