@@ -317,5 +317,20 @@
         <text>Common</text>
       </controlProperties>
     </control>
+    <control controlID="135" controlTypeID="com.balsamiq.mockups::Label" x="150" y="315" w="-1" h="-1" measuredW="30" measuredH="21" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Type</text>
+      </controlProperties>
+    </control>
+    <control controlID="136" controlTypeID="com.balsamiq.mockups::Label" x="150" y="283" w="-1" h="-1" measuredW="34" measuredH="21" zOrder="51" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Class</text>
+      </controlProperties>
+    </control>
+    <control controlID="137" controlTypeID="com.balsamiq.mockups::Label" x="150" y="350" w="-1" h="-1" measuredW="36" measuredH="21" zOrder="52" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Rarity</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
