@@ -78,6 +78,8 @@
     <control controlID="70" controlTypeID="com.balsamiq.mockups::Canvas" x="125" y="328" w="814" h="409" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
     <control controlID="71" controlTypeID="com.balsamiq.mockups::Menu" x="186" y="187" w="-1" h="-1" measuredW="150" measuredH="73" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
+        <hrefs>%2C%2Ccollection%26bm%3Bcollection.bmml%26bm%3Bcollection.bmml%26bm%3Bcollection.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22186%2C234%2C336%2C255%22%20href%3D%22collection.bmml%22%20alt%3D%22collection%22%20id%3D%2271%22/%3E</map>
         <selectedIndex>1</selectedIndex>
         <text>x%20Browse%20%3E%0ABuild%20%3E%0AYour%20collection%20%3E</text>
       </controlProperties>
