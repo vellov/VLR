@@ -60,8 +60,8 @@
     </control>
     <control controlID="47" controlTypeID="com.balsamiq.mockups::Menu" x="125" y="184" w="-1" h="-1" measuredW="150" measuredH="115" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
-        <hrefs>%2C%2CTODO_card%26bm%3BTODO_card.bmml%26bm%3BTODO_card.bmml%26bm%3BTODO_card.bmml%2C%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22125%2C231%2C275%2C252%22%20href%3D%22TODO_card.bmml%22%20alt%3D%22TODO_card%22%20id%3D%2247%22/%3E</map>
+        <hrefs>%2C%2CMinions%26bm%3BMinions.bmml%26bm%3BMinions.bmml%26bm%3BMinions.bmml%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22125%2C231%2C275%2C252%22%20href%3D%22Minions.bmml%22%20alt%3D%22Minions%22%20id%3D%2247%22/%3E</map>
         <selectedIndex>2</selectedIndex>
         <text>Hero%0AHero%20Power%0Ax%20Minion%0ASpell%0AWeapon</text>
       </controlProperties>
