@@ -175,7 +175,12 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="49" controlTypeID="com.balsamiq.mockups::Canvas" x="166" y="423" w="105" h="154" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Canvas" x="166" y="423" w="105" h="154" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>TODO_card%26bm%3BTODO_card.bmml%26bm%3BTODO_card.bmml%26bm%3BTODO_card.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22166%2C423%2C271%2C577%22%20href%3D%22TODO_card.bmml%22%20alt%3D%22TODO_card%22%20id%3D%2249%22/%3E</map>
+      </controlProperties>
+    </control>
     <control controlID="50" controlTypeID="com.balsamiq.mockups::Canvas" x="287" y="423" w="105" h="154" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="-1"/>
     <control controlID="51" controlTypeID="com.balsamiq.mockups::Canvas" x="408" y="423" w="105" h="154" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="-1"/>
     <control controlID="52" controlTypeID="com.balsamiq.mockups::Canvas" x="527" y="423" w="105" h="154" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="-1"/>
@@ -188,5 +193,12 @@
     <control controlID="59" controlTypeID="com.balsamiq.mockups::Canvas" x="527" y="583" w="105" h="154" measuredW="100" measuredH="70" zOrder="16" locked="false" isInGroup="-1"/>
     <control controlID="60" controlTypeID="com.balsamiq.mockups::Canvas" x="648" y="583" w="105" h="154" measuredW="100" measuredH="70" zOrder="17" locked="false" isInGroup="-1"/>
     <control controlID="61" controlTypeID="com.balsamiq.mockups::Canvas" x="769" y="583" w="105" h="154" measuredW="100" measuredH="70" zOrder="18" locked="false" isInGroup="-1"/>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Label" x="197" y="490" w="-1" h="-1" measuredW="43" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>TODO_card%26bm%3BTODO_card.bmml%26bm%3BTODO_card.bmml%26bm%3BTODO_card.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22197%2C490%2C240%2C511%22%20href%3D%22TODO_card.bmml%22%20alt%3D%22TODO_card%22%20id%3D%2262%22/%3E</map>
+        <text>Hogger</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
