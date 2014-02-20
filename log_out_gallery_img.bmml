@@ -7,8 +7,8 @@
     </control>
     <control controlID="6" controlTypeID="com.balsamiq.mockups::TabBar" x="125" y="323" w="814" h="420" measuredW="164" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <hrefs>gallery_img%26bm%3Bgallery_img.bmml%26bm%3Bgallery_img.bmml%26bm%3Bgallery_img.bmml%2Cgallery_text%26bm%3Bgallery_text.bmml%26bm%3Bgallery_text.bmml%26bm%3Bgallery_text.bmml</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22145%2C323%2C201%2C350%22%20href%3D%22gallery_img.bmml%22%20alt%3D%22gallery_img%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22201%2C323%2C239%2C350%22%20href%3D%22gallery_text.bmml%22%20alt%3D%22gallery_text%22%20id%3D%226%22/%3E</map>
+        <hrefs>log_out_gallery_img%26bm%3Blog_out_gallery_img.bmml%26bm%3Blog_out_gallery_img.bmml%26bm%3Blog_out_gallery_img.bmml%2Clog_out_galerry_text%26bm%3Blog_out_galerry_text.bmml%26bm%3Blog_out_galerry_text.bmml%26bm%3Blog_out_galerry_text.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22145%2C323%2C201%2C350%22%20href%3D%22log_out_gallery_img.bmml%22%20alt%3D%22log_out_gallery_img%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22201%2C323%2C239%2C350%22%20href%3D%22log_out_galerry_text.bmml%22%20alt%3D%22log_out_galerry_text%22%20id%3D%226%22/%3E</map>
         <selectedIndex>0</selectedIndex>
         <text>Images%2C%20%7Bcolor%3A6E6E6E%7DText%7Bcolor%7D</text>
       </controlProperties>
@@ -31,14 +31,14 @@
     </control>
     <control controlID="45" controlTypeID="com.balsamiq.mockups::ButtonBar" x="125" y="166" w="-1" h="-1" measuredW="121" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
       <controlProperties>
-        <hrefs>menu_cards%26bm%3Bmenu_cards.bmml%26bm%3Bmenu_cards.bmml%26bm%3Bmenu_cards.bmml%2Cmake_deck%26bm%3Bmake_deck.bmml%26bm%3Bmake_deck.bmml%26bm%3Bmake_deck.bmml</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22125%2C166%2C185%2C193%22%20href%3D%22menu_cards.bmml%22%20alt%3D%22menu_cards%22%20id%3D%2245%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22185%2C166%2C246%2C193%22%20href%3D%22make_deck.bmml%22%20alt%3D%22make_deck%22%20id%3D%2245%22/%3E</map>
+        <hrefs>log_out_menu_cards%26bm%3Blog_out_menu_cards.bmml%26bm%3Blog_out_menu_cards.bmml%26bm%3Blog_out_menu_cards.bmml%2Clog_out_menu_decks%26bm%3Blog_out_menu_decks.bmml%26bm%3Blog_out_menu_decks.bmml%26bm%3Blog_out_menu_decks.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22125%2C166%2C185%2C193%22%20href%3D%22log_out_menu_cards.bmml%22%20alt%3D%22log_out_menu_cards%22%20id%3D%2245%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22185%2C166%2C246%2C193%22%20href%3D%22log_out_menu_decks.bmml%22%20alt%3D%22log_out_menu_decks%22%20id%3D%2245%22/%3E</map>
         <text>Cards%2C%20Decks</text>
       </controlProperties>
     </control>
-    <control controlID="46" controlTypeID="com.balsamiq.mockups::Label" x="883" y="85" w="-1" h="-1" measuredW="108" measuredH="21" zOrder="20" locked="false" isInGroup="-1">
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Label" x="912" y="91" w="-1" h="-1" measuredW="27" measuredH="21" zOrder="20" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Username%20%7C%20logout</text>
+        <text>login</text>
       </controlProperties>
     </control>
     <control controlID="49" controlTypeID="com.balsamiq.mockups::Canvas" x="166" y="374" w="109" h="154" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="-1"/>

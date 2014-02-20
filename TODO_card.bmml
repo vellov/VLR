@@ -18,6 +18,8 @@
     </control>
     <control controlID="45" controlTypeID="com.balsamiq.mockups::ButtonBar" x="125" y="166" w="-1" h="-1" measuredW="121" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
+        <hrefs>menu_cards%26bm%3Bmenu_cards.bmml%26bm%3Bmenu_cards.bmml%26bm%3Bmenu_cards.bmml%2Cmenu_decks%26bm%3Bmenu_decks.bmml%26bm%3Bmenu_decks.bmml%26bm%3Bmenu_decks.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22125%2C166%2C185%2C193%22%20href%3D%22menu_cards.bmml%22%20alt%3D%22menu_cards%22%20id%3D%2245%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22185%2C166%2C246%2C193%22%20href%3D%22menu_decks.bmml%22%20alt%3D%22menu_decks%22%20id%3D%2245%22/%3E</map>
         <selectedIndex>-1</selectedIndex>
         <text>Cards%2C%20Decks</text>
       </controlProperties>
@@ -30,6 +32,8 @@
     <control controlID="70" controlTypeID="com.balsamiq.mockups::Canvas" x="125" y="224" w="814" h="513" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
     <control controlID="71" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="125" y="200" w="-1" h="-1" measuredW="155" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
+        <hrefs>menu_cards%26bm%3Bmenu_cards.bmml%26bm%3Bmenu_cards.bmml%26bm%3Bmenu_cards.bmml%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22125%2C205.5%2C165%2C218.5%22%20href%3D%22menu_cards.bmml%22%20alt%3D%22menu_cards%22%20id%3D%2271%22/%3E</map>
         <text>Cards%2C%20Minions%2C%20Hogger</text>
       </controlProperties>
     </control>

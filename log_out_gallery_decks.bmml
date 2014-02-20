@@ -23,15 +23,17 @@
     </control>
     <control controlID="45" controlTypeID="com.balsamiq.mockups::ButtonBar" x="125" y="166" w="-1" h="-1" measuredW="121" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <hrefs>menu_cards%26bm%3Bmenu_cards.bmml%26bm%3Bmenu_cards.bmml%26bm%3Bmenu_cards.bmml%2Cmenu_decks%26bm%3Bmenu_decks.bmml%26bm%3Bmenu_decks.bmml%26bm%3Bmenu_decks.bmml</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22125%2C166%2C185%2C193%22%20href%3D%22menu_cards.bmml%22%20alt%3D%22menu_cards%22%20id%3D%2245%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22185%2C166%2C246%2C193%22%20href%3D%22menu_decks.bmml%22%20alt%3D%22menu_decks%22%20id%3D%2245%22/%3E</map>
+        <hrefs>log_out_menu_cards%26bm%3Blog_out_menu_cards.bmml%26bm%3Blog_out_menu_cards.bmml%26bm%3Blog_out_menu_cards.bmml%2Clog_out_menu_decks%26bm%3Blog_out_menu_decks.bmml%26bm%3Blog_out_menu_decks.bmml%26bm%3Blog_out_menu_decks.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22125%2C166%2C185%2C193%22%20href%3D%22log_out_menu_cards.bmml%22%20alt%3D%22log_out_menu_cards%22%20id%3D%2245%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22185%2C166%2C246%2C193%22%20href%3D%22log_out_menu_decks.bmml%22%20alt%3D%22log_out_menu_decks%22%20id%3D%2245%22/%3E</map>
         <selectedIndex>1</selectedIndex>
         <text>Cards%2C%20Decks</text>
       </controlProperties>
     </control>
-    <control controlID="46" controlTypeID="com.balsamiq.mockups::Label" x="881" y="85" w="-1" h="-1" measuredW="108" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Label" x="912" y="85" w="-1" h="-1" measuredW="27" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Username%20%7C%20logout</text>
+        <href>Homepage%26bm%3BHomepage.bmml%26bm%3BHomepage.bmml%26bm%3BHomepage.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22912%2C85%2C939%2C106%22%20href%3D%22Homepage.bmml%22%20alt%3D%22Homepage%22%20id%3D%2246%22/%3E</map>
+        <text>login</text>
       </controlProperties>
     </control>
     <control controlID="53" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="1008" y="70" w="-1" h="674" measuredW="16" measuredH="100" zOrder="6" locked="false" isInGroup="-1"/>

@@ -23,15 +23,17 @@
     </control>
     <control controlID="45" controlTypeID="com.balsamiq.mockups::ButtonBar" x="125" y="166" w="-1" h="-1" measuredW="121" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <hrefs>menu_cards%26bm%3Bmenu_cards.bmml%26bm%3Bmenu_cards.bmml%26bm%3Bmenu_cards.bmml%2Cmenu_decks%26bm%3Bmenu_decks.bmml%26bm%3Bmenu_decks.bmml%26bm%3Bmenu_decks.bmml</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22125%2C166%2C185%2C193%22%20href%3D%22menu_cards.bmml%22%20alt%3D%22menu_cards%22%20id%3D%2245%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22185%2C166%2C246%2C193%22%20href%3D%22menu_decks.bmml%22%20alt%3D%22menu_decks%22%20id%3D%2245%22/%3E</map>
+        <hrefs>log_out_menu_cards%26bm%3Blog_out_menu_cards.bmml%26bm%3Blog_out_menu_cards.bmml%26bm%3Blog_out_menu_cards.bmml%2Clog_out_menu_decks%26bm%3Blog_out_menu_decks.bmml%26bm%3Blog_out_menu_decks.bmml%26bm%3Blog_out_menu_decks.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22125%2C166%2C185%2C193%22%20href%3D%22log_out_menu_cards.bmml%22%20alt%3D%22log_out_menu_cards%22%20id%3D%2245%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22185%2C166%2C246%2C193%22%20href%3D%22log_out_menu_decks.bmml%22%20alt%3D%22log_out_menu_decks%22%20id%3D%2245%22/%3E</map>
         <selectedIndex>1</selectedIndex>
         <text>Cards%2C%20Decks</text>
       </controlProperties>
     </control>
-    <control controlID="46" controlTypeID="com.balsamiq.mockups::Label" x="901" y="84" w="-1" h="-1" measuredW="108" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Label" x="912" y="85" w="-1" h="-1" measuredW="27" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Username%20%7C%20logout</text>
+        <href>Homepage%26bm%3BHomepage.bmml%26bm%3BHomepage.bmml%26bm%3BHomepage.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22912%2C85%2C939%2C106%22%20href%3D%22Homepage.bmml%22%20alt%3D%22Homepage%22%20id%3D%2246%22/%3E</map>
+        <text>login</text>
       </controlProperties>
     </control>
     <control controlID="53" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="896" y="351" w="-1" h="365" measuredW="16" measuredH="100" zOrder="6" locked="false" isInGroup="-1"/>
@@ -78,14 +80,14 @@
     <control controlID="70" controlTypeID="com.balsamiq.mockups::Canvas" x="125" y="328" w="814" h="409" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
     <control controlID="71" controlTypeID="com.balsamiq.mockups::Menu" x="186" y="187" w="-1" h="-1" measuredW="150" measuredH="73" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
-        <selectedIndex>1</selectedIndex>
-        <text>x%20Browse%20%3E%0ABuild%20%3E%0AYour%20collection%20%3E</text>
+        <selectedIndex>0</selectedIndex>
+        <text>x%20Browse%20%3E%0A-Build-%0A-Your%20collection-</text>
       </controlProperties>
     </control>
-    <control controlID="72" controlTypeID="com.balsamiq.mockups::Menu" x="333" y="211" w="-1" h="-1" measuredW="150" measuredH="199" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::Menu" x="336" y="187" w="-1" h="-1" measuredW="150" measuredH="199" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
-        <hrefs>%2C%2C%2C%2Cmake_deck%26bm%3Bmake_deck.bmml%26bm%3Bmake_deck.bmml%26bm%3Bmake_deck.bmml%2C%2C%2C%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22333%2C300%2C483%2C321%22%20href%3D%22make_deck.bmml%22%20alt%3D%22make_deck%22%20id%3D%2272%22/%3E</map>
+        <hrefs>%2C%2C%2C%2Clog_out_browse_deck%26bm%3Blog_out_browse_deck.bmml%26bm%3Blog_out_browse_deck.bmml%26bm%3Blog_out_browse_deck.bmml%2C%2C%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22336%2C276%2C486%2C297%22%20href%3D%22log_out_browse_deck.bmml%22%20alt%3D%22log_out_browse_deck%22%20id%3D%2272%22/%3E</map>
         <text>Druid%0AHunter%0AMage%0APaladin%0APriest%0ARogue%0AShaman%0AWarlock%0AWarrior</text>
       </controlProperties>
     </control>
