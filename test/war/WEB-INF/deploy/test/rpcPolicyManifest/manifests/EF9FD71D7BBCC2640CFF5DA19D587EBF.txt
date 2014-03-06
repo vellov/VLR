@@ -1,0 +1,2 @@
+serviceClass: com.test123.client.GreetingService
+path: 7DADC10163B35679915FCB3DD8DC77F5.gwt.rpc
