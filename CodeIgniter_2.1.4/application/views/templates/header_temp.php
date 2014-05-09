@@ -8,9 +8,10 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"></meta>
         <meta name="description" content="Wee homepage"></meta>
-        <link rel="stylesheet" href="../../../assets/css/style.css" type="text/css"></link>
+        <link rel="stylesheet" href="<?php echo base_url('assets/css/style.css')?>" type="text/css"></link>
+	   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 
-        <title>Wee Hs page</title>
+   	     <title>Wee Hs page</title>
     </head>
     <body>
 
@@ -32,9 +33,9 @@
 
                 <!-- navigation -->
                 <ul id="list-nav">
-                    <li><a href="<?php echo base_url();?>">Cards</a></li>
-                    <li><a href="<?php echo base_url();?>">Decks</a></li>
-                    
+                    <li><a href="<?php echo base_url("cards");?>">Cards</a></li>
+                    <li><a href="<?php echo base_url('decks');?>">Decks</a></li>
+                    <li><a href="<?php echo base_url("createdeck");?>">Create deck</a></li>
                   
                 </ul>
                 <div id="loginregister">

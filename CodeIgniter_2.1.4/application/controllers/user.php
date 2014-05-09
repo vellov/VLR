@@ -20,6 +20,7 @@ class User extends CI_Controller{
  }
  public function welcome()
  {
+
   $data['title']= 'Welcome';
   $this->load->view('templates/header_temp',$data);
   $this->load->view('pages/welcome_view.php', $data);
@@ -27,13 +28,18 @@ class User extends CI_Controller{
  }
  public function login()
  {
+	 
   $email=$this->input->post('email');
   $password=md5($this->input->post('pass'));
 
   $result=$this->user_model->login($email,$password);
-  if($result) $this->welcome();
-  else        $this->index();
- }
+
+ 			 if($result) $this->welcome();
+		     else     {
+			 $_SESSION['message'] = 'fail';
+			 redirect("login");}
+					}
+ 
  public function thank()
  {
   $data['title']= 'Thank';

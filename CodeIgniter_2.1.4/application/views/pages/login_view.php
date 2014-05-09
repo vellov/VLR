@@ -2,6 +2,7 @@
 
 
 <div class="signin_form">
+
  <?php echo form_open("user/login"); ?>
  <p>
   <label for="email">Email:</label>

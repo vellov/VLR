@@ -12,7 +12,6 @@ class User_model extends CI_Model {
  {
   $this->db->where("email",$email);
   $this->db->where("password",$password);
-
   $query=$this->db->get("user");
   if($query->num_rows()>0)
   {
@@ -24,6 +23,7 @@ class User_model extends CI_Model {
       'username'  => $rows->username,
       'user_email'    => $rows->email,
       'is_logged_in'  => TRUE,
+	
     );
    }
    $this->session->set_userdata($newdata);
